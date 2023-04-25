@@ -1,91 +1,3 @@
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sr4qtmztzzk8.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| FENIX RADIO
-https://server4.hostradios.com:7028/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsuVrMmWebNeoeMPf8R1kV4FCTLq_uCBqRA&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA 3 
-https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3?dist=c3-web
-#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_radio_la_red-150x150.jpg.webp" group-title="⭐️ RADIOS ARGENTINA ",RAD| LA RED LA RIOJA
-https://streaming01.shockmedia.com.ar:10623/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1ZfUv-FWlKFZTbsIqDHgMxZig9doOwLYng&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| RIVADAVIA
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3EEFwwElGzGYLYQCIaMYwSd02d7CZzGixA&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| MITRE
-https://26523.live.streamtheworld.com/AM810_56AAC.aac?dist=radiomitre_webplayer
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/v8uqvcrxkwbg.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA TROPICAL
-http://audio.questreaming.com:25171/;
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/da8ze4jb5wfa.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| BACHATAS
-https://radiobachatanet.radioca.st/;
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/r3pmcz3rrpqg.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA CUMBIA
-https://streamall.alsolnet.com/cadenacumbia
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rxztlqv9pxt6.png" group-title="⭐️ RADIOS ARGENTINA ",RAD| RADIO PLAY
-http://www.genexservicios.com:8212/;
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiRrWM_sbUYQT3FySKW6ODxresIJkPI_JoA&usqp=CAU" group-title="⭐️ Argentina",ARG| FENIX TV
-https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | A24 (ST)" tvg-logo="http://streamgo.vip:8008/images/cf2006e333df76cdb83bd62761e2f7aa.png" group-title="⭐️ Argentina",ARG| A24
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/285469
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="⭐️ Argentina",ARG| AMERICA TV 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269445
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="⭐️ Argentina",ARG| C5N 
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHFBeDmXAs4KqYO2IY_t7QD3pltY8hr5d4BzZ1kXVaYF7/ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIpJWGWf4oJtTs2NA-94wWN8XnNbDlAAz-Q&usqp=CAU" group-title="⭐️ Argentina",ARG| CRONICA HD
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269450
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="⭐️ Argentina",ARG| CANAL 26 NOTICIAS 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269451
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LA NACION +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdb2GKk2Ity-ltSleIbuoNxiu41FCeYyHUgA&usqp=CAU" group-title="⭐️ Argentina",ARG| LA NACION + 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/285472
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="⭐️ Argentina",ARG| EL NUEVE 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269441
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="⭐️ Argentina",ARG| TV PUBLICA 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269436
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWws6gt-yht78YeohB9c7PiWmQnLqZOlmu2Q&usqp=CAU" group-title="⭐️ Argentina",ARG| TELEFE 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269447
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="⭐️ Argentina",ARG| CANAL 13 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269438
-#EXTINF:-1 tvg-id="" tvg-name="DEP| TYC SPORTS" tvg-logo="http://streamgo.vip:8008/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title=" ⭐️ Deporte VIP",DEP| TYC SPORTS
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHF_k9vT-b-f3cNLQ5gY8Ri_3KlJ98Lo4Lo2IGzRL30Cp/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 1" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 1
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167723
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 2 " tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 2 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167724
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 3" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 3
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_O6bfHT86J1wh0CKth4imdV/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 4
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_MKlMzdvRwHC48EMuyXST6S/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN EXTRA" tvg-logo="http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN PREMIUM 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN U" tvg-logo="http://streamgo.vip:8008/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN U
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_NC2SpRHm_UWul_ERFW3Z1_/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 1
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167734
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/662bcded4f5297763f6972c2f9f128e3.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 2 
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHA67_unBnrdMpLhnsSVU5uQFWoTbxcFCLRpHqV6hdCFP/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/45cc809470ff04975580e02af75b021e.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 3 
-http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHA67_unBnrdMpLhnsSVU5uRoo-gPSDJnp2BhVUcIB08T/ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS PREMIUM" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS PREMIUM
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
-#EXTINF:-1 tvg-id="" tvg-name="I | Tooncast" tvg-logo="http://streamgo.vip:8008/images/fa2a3c759f8ceaf4a78ca83fff6c87a7.png" group-title="⭐️ Infantiles",I | Tooncast
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298643
-#EXTINF:-1 tvg-id="" tvg-name="I | Universal Kids" tvg-logo="http://streamgo.vip:8008/images/0a9fead2c0307df24df2282f435ec72d.png" group-title="⭐️ Infantiles",I | Universal Kids
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298644
-#EXTINF:-1 tvg-id="" tvg-name="I | Baby First" tvg-logo="http://streamgo.vip:8008/images/a8f108fd542eb95ffff45271349a973c.png" group-title="⭐️ Infantiles",I | Baby First
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298614
-#EXTINF:-1 tvg-id="" tvg-name="I | Baby TV" tvg-logo="http://streamgo.vip:8008/images/e744a4e5b90d4efc10c3a8161106d098.png" group-title="⭐️ Infantiles",I | Baby TV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298617
-#EXTINF:-1 tvg-id="" tvg-name="I | Discovery Kids" tvg-logo="http://streamgo.vip:8008/images/72a72f5515cd98b66906fda4f148293f.png" group-title="⭐️ Infantiles",I | Discovery Kids
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298624
-#EXTINF:-1 tvg-id="" tvg-name="I | Cartoon Network HD" tvg-logo="http://streamgo.vip:8008/images/c9a9252b96180714524b2279cdb6fa09.png" group-title="⭐️ Infantiles",I | Cartoon Network 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298623
-#EXTINF:-1 tvg-id="" tvg-name="I | Disney Channel" tvg-logo="http://streamgo.vip:8008/images/7f6510b5be91568569b3f5c0e1ad5ae1.png" group-title="⭐️ Infantiles",I | Disney Channel
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298627
-#EXTINF:-1 tvg-id="" tvg-name="I | Disney Jr" tvg-logo="http://streamgo.vip:8008/images/941c49b79c3ac38ab382511fe183fe84.png" group-title="⭐️ Infantiles",I | Disney Jr
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298630
-#EXTINF:-1 tvg-id="" tvg-name="I | Nick Jr" tvg-logo="http://streamgo.vip:8008/images/b91152d2fd298bec9474098d141f262c.png" group-title="⭐️ Infantiles",I | Nick Jr 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298630
-#EXTINF:-1 tvg-id="" tvg-name="I | Nickelodeon" tvg-logo="http://streamgo.vip:8008/images/84bab075168ea5610e5d29464d640e07.png" group-title="⭐️ Infantiles",I | Nickelodeon
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298635
-#EXTINF:-1 tvg-id="" tvg-name="I | Nicktoons" tvg-logo="http://streamgo.vip:8008/images/979032b4e80989524a8187c36f7eeb4b.png" group-title="⭐️ Infantiles",I | Nicktoons
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298638
-#EXTINF:-1 tvg-id="" tvg-name="AR | PAKAPAKA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrBU_jV_Qe1hd-6Itc-2udTYA-GyCW4Ii0g&usqp=CAU" group-title="⭐️ Infantiles",I | PAKAPAKA 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269446
-#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ Infantiles",I | HBO FAMILY 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305009
 #EXTINF:-1 tvg-id="" tvg-name="CINE| A&E SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A&E 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/304992
 #EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| CINEMAX  
@@ -178,6 +90,76 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276830
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276831
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://streamgo.vip:8008/images/a1334040a43d71f791a0ef6d5f14d50c.png" group-title="⭐️ Cultura",.HGTV 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276833
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiRrWM_sbUYQT3FySKW6ODxresIJkPI_JoA&usqp=CAU" group-title="⭐️ Argentina",ARG| FENIX TV
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | A24 (ST)" tvg-logo="http://streamgo.vip:8008/images/cf2006e333df76cdb83bd62761e2f7aa.png" group-title="⭐️ Argentina",ARG| A24
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/285469
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="⭐️ Argentina",ARG| AMERICA TV 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269445
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="⭐️ Argentina",ARG| C5N 
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHFBeDmXAs4KqYO2IY_t7QD3pltY8hr5d4BzZ1kXVaYF7/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIpJWGWf4oJtTs2NA-94wWN8XnNbDlAAz-Q&usqp=CAU" group-title="⭐️ Argentina",ARG| CRONICA HD
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269450
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="⭐️ Argentina",ARG| CANAL 26 NOTICIAS 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269451
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LA NACION +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdb2GKk2Ity-ltSleIbuoNxiu41FCeYyHUgA&usqp=CAU" group-title="⭐️ Argentina",ARG| LA NACION + 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/285472
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="⭐️ Argentina",ARG| EL NUEVE 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269441
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="⭐️ Argentina",ARG| TV PUBLICA 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269436
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWws6gt-yht78YeohB9c7PiWmQnLqZOlmu2Q&usqp=CAU" group-title="⭐️ Argentina",ARG| TELEFE 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269447
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="⭐️ Argentina",ARG| CANAL 13 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269438
+#EXTINF:-1 tvg-id="" tvg-name="DEP| TYC SPORTS" tvg-logo="http://streamgo.vip:8008/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title=" ⭐️ Deporte VIP",DEP| TYC SPORTS
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHF_k9vT-b-f3cNLQ5gY8Ri_3KlJ98Lo4Lo2IGzRL30Cp/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 1" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 1
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167723
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 2 " tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 2 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167724
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 3" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 3
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_O6bfHT86J1wh0CKth4imdV/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN 4
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_MKlMzdvRwHC48EMuyXST6S/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN EXTRA" tvg-logo="http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN PREMIUM 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN U" tvg-logo="http://streamgo.vip:8008/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title=" ⭐️ Deporte VIP",DEP| ESPN U
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHKmq1m8DuO9Iv-56N8NFC_NC2SpRHm_UWul_ERFW3Z1_/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 1
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167734
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/662bcded4f5297763f6972c2f9f128e3.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 2 
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHA67_unBnrdMpLhnsSVU5uQFWoTbxcFCLRpHqV6hdCFP/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/45cc809470ff04975580e02af75b021e.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS 3 
+http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHA67_unBnrdMpLhnsSVU5uRoo-gPSDJnp2BhVUcIB08T/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS PREMIUM" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title=" ⭐️ Deporte VIP",DEP| FOX SPORTS PREMIUM
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
+#EXTINF:-1 tvg-id="" tvg-name="I | Tooncast" tvg-logo="http://streamgo.vip:8008/images/fa2a3c759f8ceaf4a78ca83fff6c87a7.png" group-title="⭐️ Infantiles",I | Tooncast
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298643
+#EXTINF:-1 tvg-id="" tvg-name="I | Universal Kids" tvg-logo="http://streamgo.vip:8008/images/0a9fead2c0307df24df2282f435ec72d.png" group-title="⭐️ Infantiles",I | Universal Kids
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298644
+#EXTINF:-1 tvg-id="" tvg-name="I | Baby First" tvg-logo="http://streamgo.vip:8008/images/a8f108fd542eb95ffff45271349a973c.png" group-title="⭐️ Infantiles",I | Baby First
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298614
+#EXTINF:-1 tvg-id="" tvg-name="I | Baby TV" tvg-logo="http://streamgo.vip:8008/images/e744a4e5b90d4efc10c3a8161106d098.png" group-title="⭐️ Infantiles",I | Baby TV
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298617
+#EXTINF:-1 tvg-id="" tvg-name="I | Discovery Kids" tvg-logo="http://streamgo.vip:8008/images/72a72f5515cd98b66906fda4f148293f.png" group-title="⭐️ Infantiles",I | Discovery Kids
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298624
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoon Network HD" tvg-logo="http://streamgo.vip:8008/images/c9a9252b96180714524b2279cdb6fa09.png" group-title="⭐️ Infantiles",I | Cartoon Network 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298623
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Channel" tvg-logo="http://streamgo.vip:8008/images/7f6510b5be91568569b3f5c0e1ad5ae1.png" group-title="⭐️ Infantiles",I | Disney Channel
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298627
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Jr" tvg-logo="http://streamgo.vip:8008/images/941c49b79c3ac38ab382511fe183fe84.png" group-title="⭐️ Infantiles",I | Disney Jr
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298630
+#EXTINF:-1 tvg-id="" tvg-name="I | Nick Jr" tvg-logo="http://streamgo.vip:8008/images/b91152d2fd298bec9474098d141f262c.png" group-title="⭐️ Infantiles",I | Nick Jr 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298630
+#EXTINF:-1 tvg-id="" tvg-name="I | Nickelodeon" tvg-logo="http://streamgo.vip:8008/images/84bab075168ea5610e5d29464d640e07.png" group-title="⭐️ Infantiles",I | Nickelodeon
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298635
+#EXTINF:-1 tvg-id="" tvg-name="I | Nicktoons" tvg-logo="http://streamgo.vip:8008/images/979032b4e80989524a8187c36f7eeb4b.png" group-title="⭐️ Infantiles",I | Nicktoons
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298638
+#EXTINF:-1 tvg-id="" tvg-name="AR | PAKAPAKA  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrBU_jV_Qe1hd-6Itc-2udTYA-GyCW4Ii0g&usqp=CAU" group-title="⭐️ Infantiles",I | PAKAPAKA 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269446
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ Infantiles",I | HBO FAMILY 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305009
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Cultura",LIFETIME 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276834
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzBhAxheDDc1TxhBjxVgf80rzx5IimiWgsQ&usqp=CAU" group-title="⭐️ Musica",MTV 00's
@@ -212,6 +194,60 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/290472
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/290474
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_jqkjHYX3qrQzvSDNGZ0uyJmcPWPhFILgA&usqp=CAU" group-title="⭐️ Musica",Retro Plus TV
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/290479
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sr4qtmztzzk8.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| FENIX RADIO
+https://server4.hostradios.com:7028/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsuVrMmWebNeoeMPf8R1kV4FCTLq_uCBqRA&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA 3 
+https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3?dist=c3-web
+#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_radio_la_red-150x150.jpg.webp" group-title="⭐️ RADIOS ARGENTINA ",RAD| LA RED LA RIOJA
+https://streaming01.shockmedia.com.ar:10623/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1ZfUv-FWlKFZTbsIqDHgMxZig9doOwLYng&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| RIVADAVIA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3EEFwwElGzGYLYQCIaMYwSd02d7CZzGixA&usqp=CAU" group-title="⭐️ RADIOS ARGENTINA ",RAD| MITRE
+https://26523.live.streamtheworld.com/AM810_56AAC.aac?dist=radiomitre_webplayer
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/v8uqvcrxkwbg.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA TROPICAL
+http://audio.questreaming.com:25171/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/da8ze4jb5wfa.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| BACHATAS
+https://radiobachatanet.radioca.st/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/r3pmcz3rrpqg.jpg" group-title="⭐️ RADIOS ARGENTINA ",RAD| CADENA CUMBIA
+https://streamall.alsolnet.com/cadenacumbia
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rxztlqv9pxt6.png" group-title="⭐️ RADIOS ARGENTINA ",RAD| RADIO PLAY
+http://www.genexservicios.com:8212/;
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqMTUWJgGJQBKJ8eIuiDFyqQeb6Y6dKt17A&usqp=CAU" group-title="⭐️ Eventos Exclusivos",WIN SPORT (Colombia)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167738
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu0D1Nac2x6rWlYxKmwIEewjeD3AxHOY5Jw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",WIN SPORT + (Colombia) 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167739
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjErs3qIE7b7279KX415UDMRqMAKmNYtTmw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",AFIZZIONADOS (mexico)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167762
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjn8Y7Fz7RqMFu_OnGhgjr952JuGWDqz5ReA&usqp=CAU" group-title="⭐️ Eventos Exclusivos", ADRENALINA SPORT (mexico) 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167764
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3bFyKS7UC40C8TchygHVpu6xDIz1WZUNYw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",TUDN (mexico) 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167770
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH0JKoRy4w-UWG19ZYHQLcqEUm1QJFVJ7oQ&usqp=CAU" group-title="⭐️ Eventos Exclusivos",TUDN XTRA (mexico) 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167771
+#EXTINF:-1 tvg-id="tntsport.cl" tvg-name="TNT SPORTS 1 CHILE | HD" tvg-logo="http://streamgo.vip:8008/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 1 (chile)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
+#EXTINF:-1 tvg-id="tntsport2.cl" tvg-name="TNT SPORTS 2 (CHI)" tvg-logo="http://streamgo.vip:8008/images/feb33302e5de1a4895edc3ca6bdc4721.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 2 (chile)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120425
+#EXTINF:-1 tvg-id="tntsport3.cl" tvg-name="TNT SPORTS 3 (CHI)" tvg-logo="http://streamgo.vip:8008/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 3 (chile)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120427
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-oCy18-5b9fyGZUO0wKGBbaWznDnRhCnJw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",EL CANAL DEL FUTBOL (ecuador)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/162758
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxlGhziWloCGCj9WpQWu26dkyFsPayN9eQw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",GOL TV (ecuador)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167741
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CbE-03tg6eGtBuYrpxTmsYkgMfK_JfxNtw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LIGA 1MAX (Perú)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://streamgo.vip:8008/images/fcccee4adc1e4a9a2ec9115cffed8b83.png" group-title="⭐️ Eventos Exclusivos",GOL PERÚ (Perú)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqo37T-SQ8RJJaPBki-ZUeKI9KtHqoOrwwA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LIGA 1 (Perú)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/252156
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcXQ3jFAL2xBdxT7RCzF3Ny8iVNi6wqYYXA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LA LIGA TV BAR (españa)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266168
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxlO7OjhuMiFvWdeeY-pk4-_6ujes7kh3rA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",SKY LA LIGA (españa)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266165
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYu78UErTDHVVVkKt2ecv-DCUt6uYMBCLixA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",DAZN LA LIGA (españa)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266171
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH37ygFJc7Td32Cv5As7ax8XjTbr0D0XHD-w&usqp=CAU" group-title="⭐️ Eventos Exclusivos",BARCA TV (españa)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/274071
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="http://streamgo.vip:8008/images/fab2dbfd997385c0d231f2b4a75cac50.png" group-title="⭐️ Pluto Mexico",Pluto TV Cine Estelar
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/299145
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Acción" tvg-logo="http://streamgo.vip:8008/images/a8f1a3ee41f204f389819b7b9a087327.png" group-title="⭐️ Pluto Mexico",Pluto TV Cine Acción
@@ -256,39 +292,3 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/299213
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/299245
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Recetas" tvg-logo="http://streamgo.vip:8008/images/e9f6cd38009c68afd4df60bca25e7820.png" group-title="⭐️ Pluto Mexico",Pluto TV Recetas
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/299246
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqMTUWJgGJQBKJ8eIuiDFyqQeb6Y6dKt17A&usqp=CAU" group-title="⭐️ Eventos Exclusivos",WIN SPORT (Colombia)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167738
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAu0D1Nac2x6rWlYxKmwIEewjeD3AxHOY5Jw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",WIN SPORT + (Colombia) 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167739
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjErs3qIE7b7279KX415UDMRqMAKmNYtTmw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",AFIZZIONADOS (mexico)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167762
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjn8Y7Fz7RqMFu_OnGhgjr952JuGWDqz5ReA&usqp=CAU" group-title="⭐️ Eventos Exclusivos", ADRENALINA SPORT (mexico) 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167764
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3bFyKS7UC40C8TchygHVpu6xDIz1WZUNYw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",TUDN (mexico) 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167770
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH0JKoRy4w-UWG19ZYHQLcqEUm1QJFVJ7oQ&usqp=CAU" group-title="⭐️ Eventos Exclusivos",TUDN XTRA (mexico) 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167771
-#EXTINF:-1 tvg-id="tntsport.cl" tvg-name="TNT SPORTS 1 CHILE | HD" tvg-logo="http://streamgo.vip:8008/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 1 (chile)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
-#EXTINF:-1 tvg-id="tntsport2.cl" tvg-name="TNT SPORTS 2 (CHI)" tvg-logo="http://streamgo.vip:8008/images/feb33302e5de1a4895edc3ca6bdc4721.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 2 (chile)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120425
-#EXTINF:-1 tvg-id="tntsport3.cl" tvg-name="TNT SPORTS 3 (CHI)" tvg-logo="http://streamgo.vip:8008/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="⭐️ Eventos Exclusivos",TNT SPORTS 3 (chile)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120427
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-oCy18-5b9fyGZUO0wKGBbaWznDnRhCnJw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",EL CANAL DEL FUTBOL (ecuador)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/162758
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxlGhziWloCGCj9WpQWu26dkyFsPayN9eQw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",GOL TV (ecuador)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167741
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CbE-03tg6eGtBuYrpxTmsYkgMfK_JfxNtw&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LIGA 1MAX (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://streamgo.vip:8008/images/fcccee4adc1e4a9a2ec9115cffed8b83.png" group-title="⭐️ Eventos Exclusivos",GOL PERÚ (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqo37T-SQ8RJJaPBki-ZUeKI9KtHqoOrwwA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LIGA 1 (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/252156
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcXQ3jFAL2xBdxT7RCzF3Ny8iVNi6wqYYXA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",LA LIGA TV BAR (españa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266168
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxlO7OjhuMiFvWdeeY-pk4-_6ujes7kh3rA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",SKY LA LIGA (españa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266165
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYu78UErTDHVVVkKt2ecv-DCUt6uYMBCLixA&usqp=CAU" group-title="⭐️ Eventos Exclusivos",DAZN LA LIGA (españa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266171
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH37ygFJc7Td32Cv5As7ax8XjTbr0D0XHD-w&usqp=CAU" group-title="⭐️ Eventos Exclusivos",BARCA TV (españa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/274071
