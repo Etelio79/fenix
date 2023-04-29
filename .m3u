@@ -81,7 +81,7 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 4 JUJUI
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 5 ROSARIO
-https://telefecanal1.akamaized.net:443/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1682816313~acl=%2f*~data=hdntl~hmac=91fc11910663b6ec7b66d04ec85007d60534c10dd37c8b5700e2ceba5247977e/canal5rosario0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1682862722~acl=%2f*~data=hdntl~hmac=04a47898b6607666c86dfac1d03c4e012a4b8c05c7310c68e648e9005a810d43/canal5rosario0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 6 POSADA
 https://iptv.ixfo.com.ar:30443/live/c6sd/chunks.m3u8?nimblesessionid=15810185
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 7 CATAMARCA
