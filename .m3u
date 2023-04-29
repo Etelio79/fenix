@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://dl.dropboxusercontent.com/s/cfux4l112qc79zm/infantil.png?dl=0" group-title="⭐️ Infantiles",.BEN 10
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://dl.dropboxusercontent.com/s/cfux4l112qc79zm/infantil.png?dl=0" group-title="⭐️ Infantiles",BEN~10
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305085
 #EXTINF:-1 tvg-id="" tvg-name="24H | Dragon Ball Z - Saga de Freezer" tvg-logo="https://dl.dropboxusercontent.com/s/cfux4l112qc79zm/infantil.png?dl=0" group-title="⭐️ Infantiles",LA PANTERA ROSA
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305159
@@ -28,7 +28,7 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305156
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/299155
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cinema Disney Pixar" tvg-logo="https://dl.dropboxusercontent.com/s/62hjwnqiltde2ca/cine.png?dl=0" group-title="⭐️ Cine Premium", SMALLVILLE 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305382
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX 24-7" tvg-logo="https://dl.dropboxusercontent.com/s/62hjwnqiltde2ca/cine.png?dl=0" group-title="⭐️ Cine Premium",CINEMA NEXPLAY 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX 24-7" tvg-logo="https://dl.dropboxusercontent.com/s/62hjwnqiltde2ca/cine.png?dl=0" group-title="⭐️ Cine Premium",CINEMA NEXPLAY
 http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHNJZtNUB9bpyyIN_9NLhbmTKxarpYB97Tla42Vpi2zVW/ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Universe" tvg-logo="https://dl.dropboxusercontent.com/s/62hjwnqiltde2ca/cine.png?dl=0" group-title="⭐️ Cine Premium",CINE TERROR
 http://fastvplayer.com:8080/play/2at_HsBQwpDFRmai6GeXHAIh7BPikg9mWqtD4fqxVgfJdLVpGeWKSUFNwo3HfZea/ts
@@ -76,6 +76,22 @@ https://streamlov.alsolnet.com/elrural/live/playlist.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/kv8ejiz463jsaky/fenixtv.png?dl=0" group-title="⭐️ Argentina",FENIX TV
 https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 2 SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 4 JUJUI
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 5 ROSARIO
+https://telefecanal1.akamaized.net:443/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1682816313~acl=%2f*~data=hdntl~hmac=91fc11910663b6ec7b66d04ec85007d60534c10dd37c8b5700e2ceba5247977e/canal5rosario0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 6 POSADA
+https://iptv.ixfo.com.ar:30443/live/c6sd/chunks.m3u8?nimblesessionid=15810185
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 7 CATAMARCA
+https://stream.arcast.com.ar:443/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w524844647_b578000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 8 CUTUMAN
+https://stream-01.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5HN-VhLAVkGqJsLSD4Y7dOKA0zeHhX8ItDx67x8s61Z8)/dm/3/x8hvuj5/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 10 MENDOZA
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL RADIO MARIA
+https://5f700d5b2c46f.streamlock.net/radiomaria/radiomaria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="https://dl.dropboxusercontent.com/s/m04ix59ln91hrdg/colombia1.png?dl=0" group-title="⭐️ Colombia",TV AGRO
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/287806
 #EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="https://dl.dropboxusercontent.com/s/m04ix59ln91hrdg/colombia1.png?dl=0" group-title="⭐️ Colombia",CITY TV
