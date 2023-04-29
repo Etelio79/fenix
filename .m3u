@@ -66,8 +66,6 @@ https://radiobachatanet.radioca.st/;
 https://streamall.alsolnet.com/cadenacumbia
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/t1zycn352vidxbm/radios.png?dl=0" group-title="⭐️ RADIOS ARGENTINA ",RAD| RADIO PLAY
 http://www.genexservicios.com:8212/;
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",TV PUBLICA
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269436
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 9 LA RIOJA
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269441
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL RURAL
@@ -78,13 +76,13 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 4 JUJUI
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 6 POSADA
 https://iptv.ixfo.com.ar:30443/live/c6sd/chunks.m3u8?nimblesessionid=15829497
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 7 CATAMARCA
 https://stream.arcast.com.ar:443/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w524844647_b578000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 8 CUTUMAN
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 8 TUCUMAN
 https://stream-03.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5C3ZopRHzFS-sOPv72RKJF3zAdUfq6jHSDojfbbukZnq)/dm/3/x8hvuj5/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://dl.dropboxusercontent.com/s/j3jk8cpf53oocwf/argentina.png?dl=0" group-title="⭐️ Argentina",CANAL 10 MENDOZA
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
